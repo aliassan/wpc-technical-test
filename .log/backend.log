@@ -1,0 +1,210 @@
+yarn run v1.22.19
+$ nodemon --es-module-specifier-resolution=node src/server/index.js
+[33m[nodemon] 2.0.22[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node --es-module-specifier-resolution=node src/server/index.js`[39m
+Listening on port 8081...
+user in getUser web3:  Result {
+  '0': '1',
+  '1': 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4'
+}
+flags in getUser web3:  { cid: true, reg: true }
+Got a response! [200] OK
+user in getUser web3:  Result {
+  '0': '1',
+  '1': 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4'
+}
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+Got a response! [200] OK
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+Got a response! [200] OK
+Got a response! [200] OK
+Got a response! [200] OK
+Got a response! [200] OK
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+Got a response! [200] OK
+Got a response! [200] OK
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+Got a response! [200] OK
+Error while tryng to get user`:  Error: invalid address (argument="address", value="undefined", code=INVALID_ARGUMENT, version=address/5.5.0) (argument=null, value="undefined", code=INVALID_ARGUMENT, version=abi/5.0.7)
+    at Logger.makeError (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/logger/lib/index.js:199:21)
+    at Logger.throwError (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/logger/lib/index.js:208:20)
+    at Logger.throwArgumentError (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/logger/lib/index.js:211:21)
+    at Coder._throwError (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/abi/lib/coders/abstract-coder.js:40:16)
+    at AddressCoder.encode (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/abi/lib/coders/address.js:29:18)
+    at /mnt/disk/dapp_dcrypted/node_modules/@ethersproject/abi/lib/coders/array.js:71:19
+    at Array.forEach (<anonymous>)
+    at Object.pack (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/abi/lib/coders/array.js:57:12)
+    at TupleCoder.encode (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/abi/lib/coders/tuple.js:36:24)
+    at AbiCoder.encode (/mnt/disk/dapp_dcrypted/node_modules/@ethersproject/abi/lib/abi-coder.js:86:15)
+    at ABICoder.encodeParameters (/mnt/disk/dapp_dcrypted/node_modules/web3-eth-abi/lib/index.js:120:27)
+    at /mnt/disk/dapp_dcrypted/node_modules/web3-eth-contract/lib/index.js:462:20
+    at Array.map (<anonymous>)
+    at Object._encodeMethodABI (/mnt/disk/dapp_dcrypted/node_modules/web3-eth-contract/lib/index.js:461:8)
+    at Object._processExecuteArguments (/mnt/disk/dapp_dcrypted/node_modules/web3-eth-contract/lib/index.js:725:39)
+    at Object._executeMethod (/mnt/disk/dapp_dcrypted/node_modules/web3-eth-contract/lib/index.js:744:68) {
+  reason: 'invalid address (argument="address", value="undefined", code=INVALID_ARGUMENT, version=address/5.5.0)',
+  code: 'INVALID_ARGUMENT',
+  argument: null,
+  value: 'undefined'
+}
+Got a response! [200] OK
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }
+userId - getUserById:  1
+user in getUser web3:  [
+  '1',
+  'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  [],
+  [ '1' ],
+  id: '1',
+  cid: 'bafybeidzjkdsb23dklkg5qjk5xig7qiusl6prmqvr6ic4bptycnlhxdae4',
+  coursesLearning: [],
+  coursesTeaching: [ '1' ]
+]
+flags in getUser web3:  { cid: true, reg: true }

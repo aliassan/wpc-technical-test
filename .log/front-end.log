@@ -1,0 +1,9 @@
+yarn run v1.22.19
+$ next dev
+[32mready[39m - started server on 0.0.0.0:3000, url: http://localhost:3000
+[36minfo[39m  - Loaded env from /mnt/disk/dapp_dcrypted/.env
+[35mevent[39m - compiled client and server successfully in 2.3s (186 modules)
+[36mwait[39m  - compiling / (client and server)...
+[35mevent[39m - compiled client and server successfully in 6.5s (1492 modules)
+[36mwait[39m  - compiling /_error (client and server)...
+[35mevent[39m - compiled client and server successfully in 815 ms (1493 modules)
